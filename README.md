@@ -1,2 +1,4 @@
-# vs-code-snippets
-Visual Studio Code Snippets
+# Visual Studio Code Snippets
+```sh
+~/Library/Application Support/Code/User/snippets/
+```
